@@ -1,0 +1,150 @@
+/* .schedEx{
+    position: relative;
+    margin: 10px 20px 10px 0;
+    padding: 10px;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+} */
+
+/* .sched0{
+    
+    position: relative;
+    margin: 10px 20px 10px 0;
+    padding: 10px;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+
+} */
+/* .sched1{
+    position: relative;
+    width: calc(100% - 40px);
+    display: flex;
+    background: rgb(253, 255, 151);
+    margin: 10px;
+    padding: 10px 90px 10px 45px;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+} */
+/* .sched2{
+    position: relative;
+    width: calc(100% - 40px);
+    display: flex;
+    background: rgb(254, 255, 216);
+    margin: 10px;
+    padding: 10px 90px 10px 45px;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+} */
+/* .nSched{
+    position: relative;
+    width: calc(100% - 40px);
+    display: flex;
+    background: rgb(178, 255, 188);
+    margin: 10px;
+    padding: 10px 90px 10px 45px;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+} */
+.headr{
+    background-color: rgb(54, 54, 54); 
+    color: rgb(173, 173, 173);
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+
+}
+#entr{
+    color: black;
+    background: rgb(129, 129, 129) ; border-radius:30%;
+                    margin: 10px;
+                    display: flex;
+                    align-items: center;
+                    cursor: pointer;
+                    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+.schedExColor{
+    background: rgb(255, 167, 167);
+    
+}
+.schedExColor #eentr, #cncl {
+    /* background: rgb(255, 100, 100); */
+    border-radius:30%;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+.schedExEdt{
+    
+}
+
+.sched0Color{
+    background: rgb(255, 192, 111);
+    border: 2px solid red;
+}
+
+.sched0Color #eentr, #cncl {
+    /* background: rgb(255, 164, 44); */
+    border-radius:30%;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+
+.sched1Color{
+    background: rgb(253, 255, 151);
+}
+.sched1Color #eentr, #cncl {
+    /* background: rgb(251, 255, 6); */
+    border-radius:30%;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+.sched2Color{
+    background: rgb(254, 255, 216);
+}
+.sched2Color #eentr, #cncl{
+    /* background: rgb(251, 255, 123); */
+    border-radius:30%;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+
+.nSchedColor{
+    background: rgb(178, 255, 188);
+}
+.nSchedColor  #eentr, #cncl{
+    border-radius:30%;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+
+li{
+
+    display: flex;
+
+    padding: 10px;
+    margin: 10px;
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+li.edt{
+
+}
+
+.taskedC{
+
+    background: rgb(218, 218, 218);
+    margin: 10px;
+    padding: 10px;
+ 
+    box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+
+.sel{
+    border: 2px solid red;
+}
